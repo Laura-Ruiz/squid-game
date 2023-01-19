@@ -46,7 +46,7 @@ const Section = styled.div`
     height: 7rem;
     width: 7rem;
     border: 14px solid ${blue};
-    margin: 5rem 0 0 5rem;
+    margin: 3rem 0px 50px 5rem;
   }
   .info {
     display: flex;
