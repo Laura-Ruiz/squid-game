@@ -4,6 +4,7 @@ import HeroImage from "../assets/HERO.jpg";
 import Squid from "../assets/SQUID.png";
 import Game from "../assets/GAME.png";
 import { backgroundColor } from "../utils/colors";
+
 export default function Hero() {
   return (
     <Section id="hero">
@@ -31,7 +32,7 @@ export default function Hero() {
         </ul>
       </div>
       <div className="image">
-        <img src={HeroImage} alt="Hero Image" />
+        <img src={HeroImage} alt="Hero" />
         <div className="title">
           <img src={Squid} alt="" />
           <img src={Game} alt="" />
@@ -161,4 +162,4 @@ const Section = styled.section`
       }
     }
   }
-`;
+`
