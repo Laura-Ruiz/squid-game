@@ -21,13 +21,13 @@ export default function Hero() {
             <a href="#info">Info</a>
           </li>
           <li>
-            <a href="#episodes">Episodes</a>
+            <a href="#episodes">Episodios</a>
           </li>
           <li>
-            <a href="#videos">Videos</a>
+            <a href="#videos">Vídeos</a>
           </li>
           <li>
-            <a href="#details">Details</a>
+            <a href="#details">Más detalles</a>
           </li>
         </ul>
       </div>

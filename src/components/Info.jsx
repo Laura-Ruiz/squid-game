@@ -10,19 +10,17 @@ export default function Info() {
         <div className="title">
           <ul>
             <li>2021</li>
-            <li>18+</li>
-            <li>1 Season</li>
-            <li>TV Dramas</li>
+            <li>16+</li>
+            <li>1 Temporada</li>
+            <li>Dramas TV</li>
           </ul>
         </div>
         <div className="details">
           <p className="border-top">
-            Hundreds of cash-strapped players accept a strange invitation to
-            compete in children's games. Inside, a tempting prize awaits — with
-            deadly high stakes.
+          Cientos de personas con problemas de dinero aceptan una invitación rarísima para competir en juegos infantiles. Dentro los esperan un tentador premio y desafíos letales.
           </p>
           <div className="border-top">
-            <p>Starring</p>
+            <p>Protagonizada por</p>
             <ul>
               <li>Lee Jung-jae</li>
               <li>Park Hae-soo</li>
@@ -30,7 +28,7 @@ export default function Info() {
             </ul>
           </div>
           <div className="border-top">
-            <p>Creators</p>
+            <p>Creada por</p>
             <ul>
               <li>Hwang Dong-hyuk</li>
             </ul>

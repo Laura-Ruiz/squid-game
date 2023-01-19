@@ -6,49 +6,49 @@ export default function Footer() {
     <FooterContainer className="defaultMargin">
       <ul>
         <li>
-          <a href="/">FAQ</a>
+          <a href="/">Preguntas frecuentes</a>
         </li>
         <li>
-          <a href="/">Help Centre</a>
+          <a href="/">Centro de ayuda</a>
         </li>
         <li>
-          <a href="/">Account</a>
+          <a href="/">Cuenta</a>
         </li>
         <li>
-          <a href="/">Media Centre</a>
+          <a href="/">Zona de prensa</a>
         </li>
         <li>
-          <a href="/">Investor Relations</a>
+          <a href="/">Inversores</a>
         </li>
         <li>
-          <a href="/">Jobs</a>
+          <a href="/">Empleo</a>
         </li>
         <li>
-          <a href="/">Ways to Watch</a>
+          <a href="/">Formas de ver</a>
         </li>
         <li>
-          <a href="/">Terms of Use</a>
+          <a href="/">Términos de uso</a>
         </li>
         <li>
-          <a href="/">Privacy</a>
+          <a href="/">Privacidad</a>
         </li>
         <li>
-          <a href="/">Cookie Preferences</a>
+          <a href="/">Preferencias de cookies</a>
         </li>
         <li>
-          <a href="/">Corporate Information</a>
+          <a href="/">Información corporativa</a>
         </li>
         <li>
-          <a href="/">Contact Us</a>
+          <a href="/">Contáctanos</a>
         </li>
         <li>
-          <a href="/">Speed Test</a>
+          <a href="/">Prueba de velocidad</a>
         </li>
         <li>
-          <a href="/">Legal Notices</a>
+          <a href="/">Avisos legales</a>
         </li>
         <li>
-          <a href="/">Only on Netflix</a>
+          <a href="/">Solo en Netflix</a>
         </li>
       </ul>
     </FooterContainer>

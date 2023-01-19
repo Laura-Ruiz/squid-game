@@ -17,10 +17,10 @@ export default function Videos() {
           <div className="container">
             <img src={Video1} alt="Video 1" />
             <div className="info">
-              <p>Season 1 Trailer : Squid Game</p>
-              <div className="icon">
-                <FaPlay />
-              </div>
+              <p>Temporada 1 (Tráiler) : El juego del calamar</p>
+              <a className="icon" href="https://www.youtube.com/watch?v=Mj4_xG5NXeo">
+                <FaPlay fill="white"/>
+              </a>
             </div>
           </div>
         </div>
@@ -28,10 +28,10 @@ export default function Videos() {
           <div className="container">
             <img src={Video2} alt="Video 2" />
             <div className="info">
-              <p>Season 2 Trailer : Squid Game</p>
-              <div className="icon">
-                <FaPlay />
-              </div>
+              <p>Temporada 2 (Tráiler) : El juego del calamar</p>
+              <a className="icon" href="https://www.youtube.com/watch?v=yoEY_F0tfr4">
+                <FaPlay fill="white"/>
+              </a>
             </div>
           </div>
           <div className="square pink"></div>

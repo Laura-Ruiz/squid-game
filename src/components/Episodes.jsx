@@ -14,58 +14,58 @@ import { blue } from "../utils/colors";
 export default function Episodes() {
   const episodesData = [
     {
-      episodeName: "1. Red Light, Green Light",
+      episodeName: "1. Luz roja, luz verde",
       episodeInfo:
-        "Hoping to win easy money, a broke and desperate Gi-hun agrees to take part in an enigmatic game. Not long into the first round, unforeseen horrors unfold.",
+        "El arruinado y desesperado Gi-hun acepta participar en un enigmático juego con la intención de ganar dinero fácil. Ya en la primera ronda se desata el horror.",
       episodeImage: Episode1,
     },
     {
-      episodeName: "2. Hell",
+      episodeName: "2. Infierno",
       episodeInfo:
-        "Split on whether to continue or quit, the group holds a vote. But their realities in the outside world may prove to be just as unforgiving as the game.",
+        "El grupo, en desacuerdo sobre si continuar o no, decide someterlo a votación. Pero la cruda realidad de sus vidas podría ser tan despiadada como el propio juego.",
       episodeImage: Episode2,
     },
     {
-      episodeName: "3. The Man with the Umbrella",
+      episodeName: "3. El hombre del paraguas",
       episodeInfo:
-        "A few players enter the next round — which promises equal doses of sweet and deadly — with hidden advantages. Meanwhile, Jun-ho sneaks his way inside.",
+        "Llegan nuevos participantes a la ronda siguiente (que promete ser tan dulce como mortal) con algunos ases en la manga. Entretanto, Jun-ho se cuela dentro.",
       episodeImage: Episode3,
     },
     {
-      episodeName: "4. Stick to the Team",
+      episodeName: "4. El equipo es lo primero",
       episodeInfo:
-        "As alliances form among the players, no one is safe in the dorm after lights-out. The third game challenges Gi-hun's team to think strategically.",
+        "A pesar de las alianzas entre jugadores, nadie está a salvo cuando apagan la luz. El equipo de Gi-hun necesita una estrategia para el tercer juego.",
       episodeImage: Episode4,
     },
     {
-      episodeName: "5. A Fair World",
+      episodeName: "5. Un mundo justo",
       episodeInfo:
-        "Gi-hun and his team take turns keeping guard through the night. The masked men encounter trouble with their co-conspirators.",
+        "Gi-hun y su equipo hacen turnos para vigilar de noche. Los enmascarados tienen problemas con uno de sus aliados en la conspiración.",
       episodeImage: Episode5,
     },
     {
       episodeName: "6. Gganbu",
       episodeInfo:
-        "Players pair off for the fourth game. Gi-hun grapples with a moral dilemma, Sang-woo chooses self-preservation and Sae-byeok shares her untold story.",
+        "Los participantes se emparejan para el cuarto juego. Gi-hun tiene un dilema moral, Sang-woo elige salvarse a sí mismo y Sae-byeok cuenta la historia de su vida.",
       episodeImage: Episode6,
     },
     {
-      episodeName: "7. VIPS",
+      episodeName: "7. Personas importantes",
       episodeInfo:
-        "The Masked Leader welcomes VIP guests to the facility for a front-row viewing of the show. In the fifth game, some players crack under pressure.",
+        "El líder enmascarado recibe a invitados importantes que vienen a disfrutar del espectáculo en primera fila. Algunos participantes caen ante la presión del quinto juego.",
       episodeImage: Episode7,
     },
 
     {
-      episodeName: "8. Front Man",
+      episodeName: "8. El líder",
       episodeInfo:
-        "Ahead of the last round, distrust and disgust run deep among the finalists. Jun-ho makes a getaway, determined to expose the game's dirty secrets.",
+        "La desconfianza y la repulsión aumentan entre los finalistas antes del último juego. Jun-ho consigue huir y se propone destapar lo que ocurre dentro de las instalaciones.",
       episodeImage: Episode8,
     },
     {
-      episodeName: "9. One Lucky Day",
+      episodeName: "9. Un día con suerte",
       episodeInfo:
-        "The final round presents another cruel test — but this time, how it ends depends on just one player. The game's creator steps out of the shadows.",
+        "El juego final presenta otra prueba cruel... pero, esta vez, su conclusión dependerá de un solo participante. El creador del juego diabólico sale a la luz.",
       episodeImage: Episode9,
     },
   ];

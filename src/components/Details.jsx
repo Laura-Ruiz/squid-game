@@ -12,23 +12,23 @@ export default function Details() {
         </div>
         <div className="details">
           <div className="border-top">
-            <p>Watch Offline</p>
-            <p>Available to download</p>
+            <p>Ver sin conexión</p>
+            <p>Disponible para descargar</p>
           </div>
           <div className="border-top">
-            <p>Genres</p>
+            <p>Géneros</p>
             <ul>
-              <li>Korean</li>
-              <li>TV Thrillers</li>
-              <li>TV Dramas</li>
+              <li>Coreanas</li>
+              <li>Thrillers TV</li>
+              <li>Dramas TV</li>
             </ul>
           </div>
           <div className="border-top">
-            <p>This show is ...</p>
-            <p>Suspenseful</p>
+            <p>Pertenece a...</p>
+            <p>Suspense</p>
           </div>
           <div className="border-top">
-            <p>Cast</p>
+            <p>Reparto</p>
             <ul>
               <li>Lee Jung-jae</li>
               <li>Park Hae-soo</li>
