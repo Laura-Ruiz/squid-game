@@ -34,8 +34,8 @@ export default function Hero() {
       <div className="image">
         <img src={HeroImage} alt="Hero" />
         <div className="title">
-          <img src={Squid} alt="" />
-          <img src={Game} alt="" />
+          <img src={Squid} alt="squid" />
+          <img src={Game} alt="game" />
         </div>
       </div>
     </Section>

@@ -8,7 +8,7 @@ export default function Details() {
       <div className="square"></div>
       <div className="info">
         <div className="image">
-          <img src={details} alt="" />
+          <img src={details} alt="details" />
         </div>
         <div className="details">
           <div className="border-top">

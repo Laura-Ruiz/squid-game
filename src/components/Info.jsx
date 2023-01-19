@@ -6,7 +6,7 @@ export default function Info() {
   return (
     <Section id="info" className="defaultMargin">
       <div className="square"></div>
-      <div className="info">
+      <div className="info" style={{margin: "5px 0 0 20px"}}>
         <div className="title">
           <ul>
             <li>2021</li>
